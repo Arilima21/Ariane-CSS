@@ -1,0 +1,12 @@
+#imagem_redonda {
+    height: 180px;
+    height: 180px;
+    border-radius: 50%;
+}
+body {
+    background-color: #F2E3DB;
+    font-family: 'sigmar', ;  
+}
+h1, h2, h3 {
+    color: #41644A;
+}
